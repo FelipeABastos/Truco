@@ -6,7 +6,7 @@ This is an app which simulates a Truco Game, the user will put a Rotation Card a
 
 ```
 iOS 13+
-Xcode 11
+Xcode 11+
 Swift
 UIKit
 ```
