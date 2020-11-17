@@ -28,5 +28,5 @@ To use the App you'll need to combinate the Card with the Suit. For example:
 * **Felipe Bastos** 
 
 ## App working
-<img align="left" width="270" height="540" src="https://github.com/FelipeABastos/Truco/blob/main/TrucoGIF.gifhttps://github.com/FelipeABastos/Truco/blob/main/RocketSim%20Recording%20-%20iPhone%2011%20-%202020-11-17%2009.35.39.gif"> 
+<img align="left" width="270" height="540" src="https://github.com/FelipeABastos/Truco/blob/main/TrucoGIF.gif"> 
 
