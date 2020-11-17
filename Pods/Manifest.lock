@@ -1,0 +1,22 @@
+PODS:
+  - RKDropdownAlert (0.3.0)
+  - SDWebImage (5.9.1):
+    - SDWebImage/Core (= 5.9.1)
+  - SDWebImage/Core (5.9.1)
+
+DEPENDENCIES:
+  - RKDropdownAlert
+  - SDWebImage
+
+SPEC REPOS:
+  trunk:
+    - RKDropdownAlert
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  RKDropdownAlert: f4b3364c251829ad439dc666836a1f2dad26f4c7
+  SDWebImage: a990c053fff71e388a10f3357edb0be17929c9c5
+
+PODFILE CHECKSUM: 260890be591cdfa42dc803e087bbb7bfa3e524c6
+
+COCOAPODS: 1.9.3
