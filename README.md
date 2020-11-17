@@ -1,6 +1,6 @@
 # Truco
 
-This is an app wich simulates a Truco Game, the user will put a Rotation Card and maximum 10 cards in the scope. The app will analyze all the cards comparating with the Rotation Card and analyze the Highest Card of the Deck and the correct order, also will show the quantity of Full Houses.
+This is an app which simulates a Truco Game, the user will put a Rotation Card and maximum 10 cards in the scope. The app will analyze all the cards comparating with the Rotation Card and analyze the Highest Card of the Deck and the correct order, also will show the quantity of Full Houses.
 
 ## Requirements
 
